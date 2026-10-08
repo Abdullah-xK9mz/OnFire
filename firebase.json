@@ -1,0 +1,6 @@
+{
+  "functions": {"source":"functions","runtime":"nodejs22"},
+  "firestore": {"rules":"firestore.rules","indexes":"firestore.indexes.json"},
+  "storage": {"rules":"storage.rules"},
+  "hosting": {"public":".","ignore":["firebase.json","firestore.rules","storage.rules","firestore.indexes.json","README.md","functions/**","tests/**",".git/**"],"cleanUrls":false}
+}
