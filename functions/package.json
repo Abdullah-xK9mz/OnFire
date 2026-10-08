@@ -1,0 +1,6 @@
+{
+  "name":"on-fire-functions","private":true,"engines":{"node":"22"},
+  "main":"index.js","dependencies":{
+    "firebase-admin":"^14.5.0","firebase-functions":"^7.0.0","google-auth-library":"^10.4.0","node-fetch":"^3.3.2"
+  }
+}
